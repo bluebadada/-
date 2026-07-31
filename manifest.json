@@ -1,21 +1,21 @@
 {
   "name": "Hello Health!",
   "short_name": "Hello Health!",
-  "description": "Hello Health! 생활 습관 관리 앱",
+  "description": "Hello world! 팀이 개발한 청소년 생활습관 관리 앱",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192",
+      "src": "logo.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "https://via.placeholder.com/512",
+      "src": "logo.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }
