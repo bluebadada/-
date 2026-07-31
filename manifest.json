@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hello Health!",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Hello world! 팀이 개발",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
