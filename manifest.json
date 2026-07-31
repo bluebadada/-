@@ -1,7 +1,7 @@
 {
-  "name": "Hello Health!",
+  "name": "생활습관",
   "short_name": "생활습관",
-  "description": "Hello World팀이 개발한 청소년 생활습관 관리 앱",
+  "description": "청소년의 생활 습관을 관리하는 앱",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
