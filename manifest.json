@@ -1,7 +1,7 @@
 {
-  "name": "생활습관",
-  "short_name": "생활습관",
-  "description": "청소년의 생활 습관을 관리하는 앱",
+  "name": "Hello Health!",
+  "short_name": "Hello Health!",
+  "description": "Hello Health! 생활 습관 관리 앱",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
