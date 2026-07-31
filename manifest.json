@@ -5,7 +5,7 @@
   "name": "Hello Health!",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Hello world! 팀이 개발",
+  "short_name": "생활습관",
   "start_url": "/",
   "theme_color": "#ffffff"
 }
